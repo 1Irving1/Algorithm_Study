@@ -12,6 +12,7 @@
 
 | 날짜 | 문제 | 사이트 | 유형 | 링크 |
 | --- | --- | --- | --- | --- |
+| 2026-07-28 | 소수 찾기 | 프로그래머스 | 완전탐색 | [link](https://school.programmers.co.kr/learn/courses/30/lessons/42839) |
 | 2026-07-27 | 최소직사각형 | 프로그래머스 | 완전탐색 | [link](https://school.programmers.co.kr/learn/courses/30/lessons/86491) |
 | 2026-07-10 | 전력망을 둘로 나누기 | 프로그래머스 | 완전탐색 | [link](https://school.programmers.co.kr/learn/courses/30/lessons/86971) |
 | 2026-07-09 | 큰 수 만들기 | 프로그래머스 | 그리디 | [link](https://school.programmers.co.kr/learn/courses/30/lessons/42883) |
