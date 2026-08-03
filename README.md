@@ -12,6 +12,8 @@
 
 | 날짜 | 문제 | 사이트 | 유형 | 링크 |
 | --- | --- | --- | --- | --- |
+| 2026-08-03 | 의상 | 프로그래머스 | 자료구조 | [link](https://school.programmers.co.kr/learn/courses/30/lessons/42578) |
+| 2026-08-03 | 전화번호 목록 | 프로그래머스 | 자료구조 | [link](https://school.programmers.co.kr/learn/courses/30/lessons/42577) |
 | 2026-07-30 | 폰켓몬 | 프로그래머스 | 자료구조 | [link](https://school.programmers.co.kr/learn/courses/30/lessons/1845) |
 | 2026-07-30 | 완주하지 못한 선수 | 프로그래머스 | 자료구조 | [link](https://school.programmers.co.kr/learn/courses/30/lessons/42576) |
 | 2026-07-29 | 카펫 | 프로그래머스 | 완전탐색 | [link](https://school.programmers.co.kr/learn/courses/30/lessons/42842) |
