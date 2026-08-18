@@ -12,6 +12,7 @@
 
 | 날짜 | 문제 | 사이트 | 유형 | 링크 |
 | --- | --- | --- | --- | --- |
+| 2026-08-18 | 다리를 지나는 트럭 | 프로그래머스 | 자료구조 | [link](https://school.programmers.co.kr/learn/courses/30/lessons/42583) |
 | 2026-08-12 | 프로세스 | 프로그래머스 | 자료구조 | [link](https://school.programmers.co.kr/learn/courses/30/lessons/42587) |
 | 2026-08-11 | 올바른 괄호 | 프로그래머스 | 자료구조 | [link](https://school.programmers.co.kr/learn/courses/30/lessons/12909) |
 | 2026-08-10 | 행과 열의 숫자 일치 검사 | 하나금융TI (복원) | 구현 | - |
