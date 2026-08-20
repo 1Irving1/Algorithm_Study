@@ -12,6 +12,7 @@
 
 | 날짜 | 문제 | 사이트 | 유형 | 링크 |
 | --- | --- | --- | --- | --- |
+| 2026-08-21 | 주식가격 | 프로그래머스 | 자료구조 | [link](https://school.programmers.co.kr/learn/courses/30/lessons/42584) |
 | 2026-08-18 | 다리를 지나는 트럭 | 프로그래머스 | 자료구조 | [link](https://school.programmers.co.kr/learn/courses/30/lessons/42583) |
 | 2026-08-12 | 프로세스 | 프로그래머스 | 자료구조 | [link](https://school.programmers.co.kr/learn/courses/30/lessons/42587) |
 | 2026-08-11 | 올바른 괄호 | 프로그래머스 | 자료구조 | [link](https://school.programmers.co.kr/learn/courses/30/lessons/12909) |
